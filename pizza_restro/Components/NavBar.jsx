@@ -26,7 +26,7 @@ const NavBar = () => {
           </Link>
         
         <li className={styles.listItem}>Menu</li>
-          <Image src="/img/logo.png" alt="" width="160" height="69"/>
+          <Image src="" alt="" width="160" height="69"/>
           <li className={styles.listItem}>Events</li>
           <li className={styles.listItem}>Blog</li>
           <li className={styles.listItem}>Contact</li>
